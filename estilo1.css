@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+img{
+    height: 300px;
+}
+
+p{
+    font-size: 36px;
+    color: brown;
+}
